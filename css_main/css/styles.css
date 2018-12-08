@@ -1,3 +1,50 @@
+/*Colour Palette
+----------------
+#D00000 - carmine red
+#242F40 - grayish blue
+#CCA43B - bored yellow
+#6B2B06 - grizzly bear brown
+#C2C1C2 - informal grey
+*/
+
+/*Global styles
+------------------*/
 body{
-	background: lightblue;
+	
+}
+
+a{
+	color: #CCA43B;
+
+}
+
+a:hover{
+	text-decoration: none;
+}
+
+
+
+/*Header and Footer
+---------------------*/
+header,footer{
+	background: #6B2B06;
+	color: #C2C1C2;
+}
+
+header h1, header h2{
+	color: #CCA43B;
+}
+
+
+
+
+/*Work Experience & Education
+--------------------*/
+
+.work{
+	background: #242F40;
+}
+
+.edu{
+	background: #D00000;
 }
