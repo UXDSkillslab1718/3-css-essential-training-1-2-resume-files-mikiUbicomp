@@ -1,10 +1,10 @@
 /*Colour Palette
 ----------------
-#D00000 - carmine red
-#242F40 - grayish blue
-#CCA43B - bored yellow
-#6B2B06 - grizzly bear brown
-#C2C1C2 - informal grey
+#0D3B66 - midnight blue
+#343434 - gray
+#F4d35E - bored yellow
+#854D27 - grizzly bear brown
+#FBF5F3 - white smoke
 */
 
 /*Global styles
@@ -82,7 +82,7 @@ a:hover{
 	position: absolute;
 	bottom: 0;
 	right: o;
-	
+
 }
 
 
